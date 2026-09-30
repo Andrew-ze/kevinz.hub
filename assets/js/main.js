@@ -1,4 +1,4 @@
-/* Kevinz Jewelry and Bags Hub — SHOWCASE SITE behaviour
+/* Kevinz Collection — SHOWCASE SITE behaviour
    This is a static demo: the "cart" below is stored in the browser's
    localStorage purely so the pages have something interactive to show.
    It is NOT a real order system — there is no server, no payment, and
